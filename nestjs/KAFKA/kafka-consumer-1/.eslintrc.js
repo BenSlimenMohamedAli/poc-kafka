@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
-    project: 'KAFKA/kafka-consumer-1/tsconfig.json',
+    project: 'nestjs/KAFKA/kafka-consumer-1/tsconfig.json',
     sourceType: 'module',
   },
   plugins: ['@typescript-eslint/eslint-plugin'],
