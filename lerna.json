@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "packages/*",
+    "nestjs/KAFKA/*",
+    "nestjs/TCP/*",
+    "kafkajs/*"
+  ],
+  "npmClient": "npm",
+  "version": "independent"
+}
